@@ -15,3 +15,71 @@ En esta sesión se pretende entender principalmente lo que es la bolsa de valore
 - **Mercado de renta variable** 
 
 Así como lo indica su nombre, el propósito principal de este video es hablar sobre el mercado de renta variable, puntualmente de las acciones, allí se abarca su concepto, la forma en la que con estas se generan productividades (dividendos y valorizaciones), de igual forma, los tipos de derechos que se adquieren con estas (económicos y políticos) y los tipos de acciones que en el mercado existen (ordinarias, preferenciales y privilegiadas).
+
+- **Mercado de renta fija** 
+
+En este video se abarca el mercado de renta fija, particularmente los bonos y se da a conocer su concepto, las entidades que pueden emitirlos (empresas y gobiernos), factores clave a tener en cuenta al invertir en ellos (valor nominal, vencimiento, cupón) y finalmente, se habla acerca del tipo de mercado en donde estos se negocian (mercado primario y secundario)
+
+- **Indices en Colombia** 
+
+En este video se abarca el mercado de renta fija, particularmente los bonos y se da a conocer su concepto, las entidades que pueden emitirlos (empresas y gobiernos), factores clave a tener en cuenta al invertir en ellos (valor nominal, vencimiento, cupón) y finalmente, se habla acerca del tipo de mercado en donde estos se negocian (mercado primario y secundario)
+
+## Módulo 2 - Bolsa mercantil
+
+- **Bolsa mercantil** 
+
+Este video da una habla de lo que es particularmente la bolsa mercantil, los productos que allí se negocian (agropecuarios, industriales, minero-energéticos y otros commodities), luego, hace referencia a la Bolsa Mercantil de Colombia (BMC), su constitución, tambien habla acerca de la Bolsa Mercantil de Chicago (CME Group) y su importancia actualmente.
+
+- **Derivados financieros** 
+
+En esta sesión, se explica el concepto de derrivados financieros, se dan a conocer ejemplos de activos subyacentes, continuando con los dos sistemas existentes en donde se negocian sus instrumentos (sistema intermediado y no intermediado), adicionalmente, se menciona los tres principales usos de los derivados financieros (cobertura, especulación y arbitraje).
+
+- **Intrumentos de derivados** 
+
+Tal como su nombre lo indica, en este video se profundiza sobre los instrumentos que se desglosan de los derivados financieros, tales como los forwards, los futuros, las opciones y los swaps, señalando a que sistema pertenece cada uno (estandarizado o no estandarizado) y dando una explicación de cada uno de ellos.
+
+- **Características de los contratos** 
+
+Aquí el tema principal es definir las características de los contratos que componen los instrumentos financieros mencionados en el video anterior, tales como el tamaño del contrato, los ticks y el vencimiento del mismo, finalmente se muestra un ejemplo de la codificación que recibiría un contrato en especifico como lo es el del Maíz, con vencimiento a noviembre de 2020.
+
+- **Sectores de metales y energía** 
+
+Allí se prentende dar un ejemplo claro de la composición de un contrato de dos de los derivados más negociados a nivel mundial, correspondientes a los sectores de metales (petroleo WTI) y de energía (Oro), indicando su tamaño de contrato, su símbolo, su precio mínimo de fluctuación, el valor de cada tic y su horario de operación.
+
+## Módulo 3 - Análisis de mercado
+
+- **Tipos de análisis** 
+
+En esta sesión se definen los dos tipos de análisis que se abarcarán a lo largo del módulo (fundamental y técnico), comparándolos entre si y señalando los factores claves que estos tienen en cuenta para desarrollarse correctamente.
+
+- **Análisis fundamental** 
+
+Aquí se profundiza más en este tipo de análisis, indicando ejemplos de eventos internacionales que tiene en cuenta (IPC, PIB, comnicados, informes, etc), se habla acerca de su objetivo principal, sus principales ventajas y uno de sus principales riesgos.
+
+- **Investing.com** 
+
+Este video consiste en explicar una de las herramientas principales utilizadas en el análisis fundamental, se da a conocer como entender y manejar correctamente esta plataforma para poder entender la información que allí se comparte y analizarla de la mejor manera
+
+- **Análisis técnico** 
+
+Aparte de profundizar más en este tipo de análisis y de hablar de su objetivo principal y ventajas, se hace referencia de tres tipos de gráficas que se utilizan (líneas, barras y velas), sin embargo, se hace enfasis en la tercera y se explica detalladamente la composición de una vela japonesa alcista y bajista.
+
+- **Tradingview** 
+
+Finalmente, en este último video, se muestra una de las principales plataformas empleadas para este tipo de análisis, dando a conocer su función, adicionalmente, de forma gráfica se explica como manejarla y se muestran algunas de las diversas funciones que allí se pueden utilizar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
