@@ -57,6 +57,7 @@ En esta sesión se definen los dos tipos de análisis que se abarcarán a lo lar
 Aquí se profundiza más en este tipo de análisis, indicando ejemplos de eventos internacionales que tiene en cuenta (IPC, PIB, comnicados, informes, etc), se habla acerca de su objetivo principal, sus principales ventajas y uno de sus principales riesgos.
 
 - **Investing.com** http://bit.ly/367ax5z
+
 Este video consiste en explicar una de las herramientas principales utilizadas en el análisis fundamental, se da a conocer como entender y manejar correctamente esta plataforma para poder entender la información que allí se comparte y analizarla de la mejor manera
 
 - **Análisis técnico** http://bit.ly/2M2bXHo
