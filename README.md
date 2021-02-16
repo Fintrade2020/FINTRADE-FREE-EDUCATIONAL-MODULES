@@ -1,4 +1,4 @@
-# FINTRADE FREE EDUCATIONAL MODULES
+# FINTRADE MASSIVE OPEN ONLINE COURSE (MOOC)
 
 Los módulos educativos gratuitos que ofrece el Laboratorio Financiero Fintrade nacen con el objetivo de permitirle a cada estudiante, crear unas bases sólidas con respecto al conocimiento de los mercados financieros de una forma dinámica y sencilla de comprender, los conceptos que en cada sesión se trabajan son fundamentales para interactuar con el mundo financiero. Estos módulos están compuestos de cinco herramientas audiovisuales (videos) de tres minutos aproximadamente cada uno, para un total de 15 videos.
 
